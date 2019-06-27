@@ -1,11 +1,12 @@
-Costituzione
-########
+Costituzione Italiana
+#####################
 
-La Costituzione Italiana completa di tutte le sue versioni
+**Fonte:** `normattiva`_
 
-Lavori correlati:
+**Lavori correlati:** `VisualCostituzione`_
 
-[VisualCostituzione](http://www.visualcad.it/visualcostituzione/)
+.. _normattiva: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione
+.. _VisualCostituzione: http://www.visualcad.it/visualcostituzione/
 
 
 
